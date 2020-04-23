@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0fce911-0b18-4a64-b7c5-6ad9898e5546" name="Default Changelist" comment="" />
+    <list default="true" id="a0fce911-0b18-4a64-b7c5-6ad9898e5546" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer-demo/src/test/java/LoadBalanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/eureka-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/leyou/EurekaDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/leyou/CustomerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/leyou/CustomerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/src/main/java/com/leyou/customer/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/src/main/java/com/leyou/customer/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/leyou/CustomerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/leyou/CustomerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-demo/target/classes/com/leyou/customer/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/customer-demo/target/classes/com/leyou/customer/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/com/leyou/user/UserApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/com/leyou/user/UserApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/com/leyou/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/com/leyou/user/UserApplication.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springclound-dome1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,15 +42,28 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\北京百里半培训\springclound-dome1\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\北京百里半培训\apache-maven-3.6.0\repository" />
-        <option name="userSettingsFile" value="E:\北京百里半培训\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="localRepository" value="C:\Users\杨tao\.m2\repository" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1asw0mCWrd1KCO464EmhSndLh15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +75,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -46,9 +85,15 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\北京百里半培训\springclound-dome1\customer-demo\src\test\java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\北京百里半培训\springclound-dome1\customer-demo\src\main\java\com\leyou\pojo" />
       <recent name="E:\北京百里半培训\springclound-dome1\user-service\src\main\java\com\leyou\user\pojo" />
@@ -61,7 +106,17 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CustomerApplication">
+  <component name="RunManager" selected="JUnit.LoadBalanceTest.test">
+    <configuration name="LoadBalanceTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="customer-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoadBalanceTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="customer-demo" />
       <extension name="coverage">
@@ -71,6 +126,33 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.EurekaDemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.EurekaDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -88,10 +170,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.user.UserApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LoadBalanceTest.test" />
+      <item itemvalue="Spring Boot.Eureka2" />
+      <item itemvalue="Spring Boot.UserApplication2" />
+      <item itemvalue="Spring Boot.CustomerApplication" />
+      <item itemvalue="Spring Boot.EurekaDemoApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.CustomerApplication" />
+        <item itemvalue="JUnit.LoadBalanceTest.test" />
         <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.EurekaDemoApplication" />
+        <item itemvalue="Spring Boot.CustomerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -104,11 +210,6 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -127,61 +228,111 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587537388092</updated>
-      <workItem from="1587537392213" duration="3039000" />
+      <workItem from="1587537392213" duration="5536000" />
+      <workItem from="1587604485808" duration="16289000" />
+      <workItem from="1587630841142" duration="435000" />
     </task>
+    <task id="LOCAL-00001" summary="提交给本地仓库">
+      <created>1587540659053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587540659053</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交给本地仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交给本地仓库" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="797" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587622552747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587622552747" />
     <state x="1339" y="331" key="#com.intellij.ide.util.MemberChooser" timestamp="1587538521735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1339" y="331" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587538521735" />
-    <state x="724" y="302" key="FileChooserDialogImpl" timestamp="1587540600614">
+    <state x="793" y="143" key="CommitChangelistDialog2" timestamp="1587540653171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="724" y="302" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587540600614" />
-    <state width="409" height="244" key="GridCell.Tab.0.bottom" timestamp="1587540576454">
+    <state x="793" y="143" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587540653171" />
+    <state x="724" y="302" key="FileChooserDialogImpl" timestamp="1587625113997">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.0.center" timestamp="1587540576454">
+    <state x="724" y="302" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587625113997" />
+    <state width="942" height="244" key="GridCell.Tab.0.bottom" timestamp="1587625452554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.0.left" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452554" />
+    <state width="942" height="244" key="GridCell.Tab.0.center" timestamp="1587625452554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.0.right" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452554" />
+    <state width="942" height="244" key="GridCell.Tab.0.left" timestamp="1587625452554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.1.bottom" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452554" />
+    <state width="942" height="244" key="GridCell.Tab.0.right" timestamp="1587625452554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.1.center" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452554" />
+    <state width="942" height="244" key="GridCell.Tab.1.bottom" timestamp="1587625452555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.1.left" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452555" />
+    <state width="942" height="244" key="GridCell.Tab.1.center" timestamp="1587625452555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state width="409" height="244" key="GridCell.Tab.1.right" timestamp="1587540576454">
+    <state width="942" height="244" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452555" />
+    <state width="942" height="244" key="GridCell.Tab.1.left" timestamp="1587625452555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="409" height="244" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587540576454" />
-    <state x="447" y="189" key="SettingsEditor" timestamp="1587537656311">
+    <state width="942" height="244" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452555" />
+    <state width="942" height="244" key="GridCell.Tab.1.right" timestamp="1587625452555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="447" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587537656311" />
-    <state x="669" y="221" key="new project wizard" timestamp="1587539247564">
+    <state width="942" height="244" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587625452555" />
+    <state width="839" height="244" key="GridCell.Tab.2.bottom" timestamp="1587622022872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="669" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587539247564" />
+    <state width="839" height="244" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587622022872" />
+    <state width="839" height="244" key="GridCell.Tab.2.center" timestamp="1587622022871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="244" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587622022871" />
+    <state width="839" height="244" key="GridCell.Tab.2.left" timestamp="1587622022871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="244" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587622022871" />
+    <state width="839" height="244" key="GridCell.Tab.2.right" timestamp="1587622022872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="839" height="244" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587622022872" />
+    <state x="939" y="144" key="Maven.ArtifactSearchDialog" timestamp="1587622943892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="939" y="144" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587622943892" />
+    <state x="242" y="201" key="SettingsEditor" timestamp="1587625148400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="201" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587625148400" />
+    <state x="833" y="283" key="Vcs.Push.Dialog.v2" timestamp="1587625510630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="283" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587625510630" />
+    <state x="669" y="221" key="new project wizard" timestamp="1587605102670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="221" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587605102670" />
+    <state x="940" y="273" width="672" height="678" key="search.everywhere.popup" timestamp="1587618082672">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="940" y="273" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587618082672" />
   </component>
 </project>
