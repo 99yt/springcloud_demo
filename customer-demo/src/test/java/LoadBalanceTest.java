@@ -17,7 +17,7 @@ public class LoadBalanceTest {
     @Test
     public void test(){
         for (int i = 0; i < 100; i++) {
-            ServiceInstance instance = this.client.choose("user-service");
+            ServiceInstance instance = this.client.choose("com.leyou.user-service");
             System.out.println(instance.getHost() + ":" + instance.getPort());
         }
     }
